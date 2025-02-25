@@ -59,7 +59,4 @@ This project is licensed under the Manay Rawal License.😉😅
 ## Contact
 For any queries or issues, feel free to reach out!
 
----
-
-Let me know if you want any modifications or additional details!
 
